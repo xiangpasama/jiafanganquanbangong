@@ -5,7 +5,7 @@
 
 | 名称 | 链接 |
 | --- | --- |
-| 360杀毒pro | [Value 1](https://sd.360.cn/) |
+| 360杀毒pro | https://sd.360.cn/ |
 | Key 2 | Value 2 |
 | Key 3 | Value 3 |
 
