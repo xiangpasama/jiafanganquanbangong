@@ -17,7 +17,7 @@
 | 火狐firefox浏览器 | http://www.firefox.com.cn/ |
 | 微软edge浏览器 | https://www.microsoft.com/zh-cn/edge |
 | opera浏览器 | https://www.opera.com/zh-cn |
-| 华为浏览器 | https://pcmanager.microsoft.com/en-us |
+| 华为浏览器 | https://consumer.huawei.com/cn/mobileservices/browser/ |
 
 **输入法**<br />
 | 名称 | 链接 |
