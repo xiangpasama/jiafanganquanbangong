@@ -10,7 +10,23 @@
 | 火绒安全软件 | https://www.huorong.cn/ |
 | 微软电脑管家 | https://pcmanager.microsoft.com/en-us |
 
+**浏览器**<br />
+| 名称 | 链接 |
+| --- | --- |
+| 谷歌chrome浏览器 | https://www.google.cn/chrome/index.html |
+| 火狐firefox浏览器 | http://www.firefox.com.cn/ |
+| 微软edge浏览器 | https://www.microsoft.com/zh-cn/edge |
+| opera浏览器 | https://www.opera.com/zh-cn |
+| 华为浏览器 | https://pcmanager.microsoft.com/en-us |
 
+**输入法**<br />
+| 名称 | 链接 |
+| --- | --- |
+| 百度输入法 | https://shurufa.baidu.com/ |
+| 搜狗输入法 | https://shurufa.sogou.com/ |
+| 微信输入法 | https://z.weixin.qq.com/ |
+| 讯飞输入法 | https://srf.xunfei.cn/ |
+| 华宇输入法 | https://pinyin.thunisoft.com/index.html |
 
 
 
