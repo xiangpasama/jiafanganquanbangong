@@ -8,6 +8,7 @@
 | 腾讯电脑管家 | https://guanjia.qq.com/ |
 | 火绒安全软件 | https://www.huorong.cn/ |
 | 微软电脑管家 | https://pcmanager.microsoft.com/en-us |
+| 卡巴斯基免费版 | https://www.kaspersky.com.cn/free-antivirus |
 
 **浏览器**<br />
 | 名称 | 链接 |
