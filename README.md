@@ -3,7 +3,6 @@
 **杀毒软件[企业杀毒之外]**<br />
 | 名称 | 链接 |
 | --- | --- |
-| 360杀毒pro | https://sd.360.cn/ |
 | 360安全卫士极速版 | https://weishi.360.cn/jisu/ |
 | 腾讯电脑管家 | https://guanjia.qq.com/ |
 | 火绒安全软件 | https://www.huorong.cn/ |
@@ -27,6 +26,24 @@
 | 微信输入法 | https://z.weixin.qq.com/ |
 | 讯飞输入法 | https://srf.xunfei.cn/ |
 | 华宇输入法 | https://pinyin.thunisoft.com/index.html |
+
+**解压缩**<br />
+| 名称 | 链接 |
+| --- | --- |
+| 360压缩 | https://yasuo.360.cn/ |
+| winrar压缩 | https://www.winrar.com.cn/index.htm |
+| 7-zip压缩 | https://www.7-zip.org/ |
+| bandizip压缩 | http://www.bandisoft.com/ |
+| 可牛压缩 | https://s.keniu.com/ |
+
+**PDF软件**<br />
+| 名称 | 链接 |
+| --- | --- |
+| 福昕PDF阅读器 | https://www.foxitsoftware.cn/pdf-reader/ |
+| 极速PDF阅读器 | https://jisupdf.com/zh-cn/pdf-reader.html |
+| 金山PDF阅读器 | https://www.wps.cn/product/kingsoftpdf/ |
+| 可牛PDF阅读器 | https://s.keniu.com/  |
+
 
 
 
