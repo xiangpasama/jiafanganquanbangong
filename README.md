@@ -24,6 +24,20 @@
 | 腾讯翻译 | https://transmart.qq.com/zh-CN/index |
 | 火山翻译 | https://translate.volcengine.com/extension |
 
+**浏览器安全插件**<br />
+| 名称 | 链接 |
+| --- | --- |
+| McAfee WebAdvisor | https://www.mcafee.com/en-us/safe-browser/mcafee-webadvisor.html |
+| Norton Safe Web | https://cn.norton.com/feature/safe-web |
+| Avira Safe Shopping | https://www.avira.com/de/safe-shopping |
+| Avast Online Security & Privacy | https://www.avast.com/avast-online-security |
+| Malwarebytes Browser Guard | https://www.malwarebytes.com/browserguard |
+| AdBlock | https://getadblock.com/zh_TW/ |
+| Adblock Plus - free ad blocker | https://adblockplus.org/ |
+| AdGuard 广告封锁器 | https://adguard.com/ |
+| uBlock Origin | https://github.com/gorhill/uBlock |
+| Trend Micro ID Protection | https://www.trendmicro.com/en_us/forHome/products/trend-micro-check.html |
+
 **输入法**<br />
 | 名称 | 链接 |
 | --- | --- |
