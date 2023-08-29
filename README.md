@@ -44,12 +44,43 @@
 | 金山PDF阅读器 | https://www.wps.cn/product/kingsoftpdf/ |
 | 可牛PDF阅读器 | https://s.keniu.com/  |
 
+**无毒软件中心**<br />
+| 名称 | 链接 |
+| --- | --- |
+| 奇安信软件下载中心 | https://pc.soft.qianxin.com/ |
+| 联想应用商店 | https://lestore.lenovo.com/ |
+| 360软件宝库 | http://baoku.360.cn/ |
+| 腾讯软件中心 | https://pc.qq.com/  |
+| 数码荔枝软件中心 | https://lizhi.shop/  |
+| 麦软网软件中心 | https://www.mairuan.com/  |
+| 艾维商城软件中心 | https://www.aiviy.com/  |
+| 少数派软件中心 | https://sspai.com/mall  |
+
+**windows操作系统纯净版**<br />
+| 名称 | 链接 |
+| --- | --- |
+| MSDN windows纯净版 | https://msdn.itellyou.cn/ |
+| windows10启动盘 | https://www.microsoft.com/zh-cn/software-download/windows10 |
+| windows11启动盘 | https://www.microsoft.com/zh-cn/software-download/windows11 |
+| HEU_KMS_Activator激活 | https://github.com/zbezj/HEU_KMS_Activator |
+| KMS_VL_ALL_AIO激活 | https://github.com/abbodi1406/KMS_VL_ALL_AIO  |
+| ventoy镜像启动盘 | https://www.ventoy.net/cn/index.html |
+| rufus镜像启动盘 | https://github.com/pbatard/rufus |
+| wepe工具箱 | https://www.wepe.com.cn/ |
 
 
 
 
 
 
+
+
+
+
+
+<br />
+<br />
+<br />
 《中华人民共和国网络安全法》<br />
 《中华人民共和国数据安全法》<br />
 《中华人民共和国个人信息保护法》<br />
