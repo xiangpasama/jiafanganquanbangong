@@ -18,6 +18,12 @@
 | opera浏览器 | https://www.opera.com/zh-cn |
 | 华为浏览器 | https://consumer.huawei.com/cn/mobileservices/browser/ |
 
+**浏览器翻译插件[不限次数]**<br />
+| 名称 | 链接 |
+| --- | --- |
+| 腾讯翻译 | https://transmart.qq.com/zh-CN/index |
+| 火山翻译 | https://translate.volcengine.com/extension |
+
 **输入法**<br />
 | 名称 | 链接 |
 | --- | --- |
@@ -107,8 +113,6 @@
 | 阿里巴巴开源镜像站 | https://developer.aliyun.com/mirror/ |
 | 腾讯开源镜像站 | http://mirrors.tencent.com/  |
 | 中国科技大学开源镜像站 | http://mirrors.ustc.edu.cn/  |
-
-
 
 
 
