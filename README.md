@@ -32,7 +32,7 @@
 | Avira Safe Shopping | https://www.avira.com/de/safe-shopping |
 | Avast Online Security & Privacy | https://www.avast.com/avast-online-security |
 | Malwarebytes Browser Guard | https://www.malwarebytes.com/browserguard |
-| AdBlock | https://getadblock.com/zh_TW/ |
+| AdBlock | https://getadblock.com/ |
 | Adblock Plus - free ad blocker | https://adblockplus.org/ |
 | AdGuard 广告封锁器 | https://adguard.com/ |
 | uBlock Origin | https://github.com/gorhill/uBlock |
