@@ -128,6 +128,8 @@
 | 腾讯开源镜像站 | http://mirrors.tencent.com/  |
 | 中国科技大学开源镜像站 | http://mirrors.ustc.edu.cn/  |
 
+# 甲方安全办公供应链[黑名单·技术部门除外]
+
 
 
 
