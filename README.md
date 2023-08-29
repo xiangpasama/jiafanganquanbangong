@@ -44,18 +44,6 @@
 | 金山PDF阅读器 | https://www.wps.cn/product/kingsoftpdf/ |
 | 可牛PDF阅读器 | https://s.keniu.com/  |
 
-**无毒软件中心**<br />
-| 名称 | 链接 |
-| --- | --- |
-| 奇安信软件下载中心 | https://pc.soft.qianxin.com/ |
-| 联想应用商店 | https://lestore.lenovo.com/ |
-| 360软件宝库 | http://baoku.360.cn/ |
-| 腾讯软件中心 | https://pc.qq.com/  |
-| 数码荔枝软件中心 | https://lizhi.shop/  |
-| 麦软网软件中心 | https://www.mairuan.com/  |
-| 艾维商城软件中心 | https://www.aiviy.com/  |
-| 少数派软件中心 | https://sspai.com/mall  |
-
 **纯净操作系统**<br />
 | 名称 | 链接 |
 | --- | --- |
@@ -68,6 +56,49 @@
 | rufus镜像启动盘 | https://github.com/pbatard/rufus |
 | wepe工具箱 | https://www.wepe.com.cn/ |
 
+**SSH远程工具**<br />
+| 名称 | 链接 |
+| --- | --- |
+| 宝塔SSH终端 | https://www.bt.cn/new/product_ssh.html |
+| Finalshell终端 | http://www.hostbuf.com/ |
+| PuTTY终端 | https://www.chiark.greenend.org.uk/~sgtatham/putty/ |
+| SmarTTY终端 | https://sysprogs.com/SmarTTY/  |
+| termius终端 | https://www.termius.com/  |
+| cmder终端 | https://github.com/cmderdev/cmder  |
+| winscp终端 | https://winscp.net/eng/docs/lang:chs  |
+| filezilla终端 | https://filezilla-project.org/  |
+| xshell/ftp终端 | https://www.xshell.com/zh/free-for-home-school/  |
+
+**数据库远程工具**<br />
+| 名称 | 链接 |
+| --- | --- |
+| heidisql客户端 | https://www.heidisql.com/ |
+| dbeaver客户端 | https://dbeaver.io/ |
+| mysql workbench客户端 | https://www.mysql.com/products/workbench/ |
+| Oracle SQL Developer客户端 | https://docs.oracle.com/en/database/oracle/sql-developer/index.html  |
+| Oracle Database Express Edition客户端 | https://www.oracle.com/database/technologies/appdev/xe.html |
+| redis客户端 | https://redis.io/resources/clients/ |
+
+**桌面远程工具**<br />
+| 名称 | 链接 |
+| --- | --- |
+| 向日葵 | https://sunlogin.oray.com/product/feat |
+| todesk | https://www.todesk.com/ |
+| teamviewer | https://www.teamviewer.cn/cn/ |
+| anydesk | https://anydesk.com.cn/zhs  |
+
+**无毒软件中心**<br />
+| 名称 | 链接 |
+| --- | --- |
+| 奇安信软件下载中心 | https://pc.soft.qianxin.com/ |
+| 联想应用商店 | https://lestore.lenovo.com/ |
+| 360软件宝库 | http://baoku.360.cn/ |
+| 腾讯软件中心 | https://pc.qq.com/  |
+| 数码荔枝软件中心 | https://lizhi.shop/  |
+| 麦软网软件中心 | https://www.mairuan.com/  |
+| 艾维商城软件中心 | https://www.aiviy.com/  |
+| 少数派软件中心 | https://sspai.com/mall  |
+
 **开源镜像站**<br />
 | 名称 | 链接 |
 | --- | --- |
@@ -76,12 +107,6 @@
 | 阿里巴巴开源镜像站 | https://developer.aliyun.com/mirror/ |
 | 腾讯开源镜像站 | http://mirrors.tencent.com/  |
 | 中国科技大学开源镜像站 | http://mirrors.ustc.edu.cn/  |
-
-
-
-
-
-
 
 
 
