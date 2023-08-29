@@ -56,7 +56,7 @@
 | 艾维商城软件中心 | https://www.aiviy.com/  |
 | 少数派软件中心 | https://sspai.com/mall  |
 
-**windows操作系统纯净版**<br />
+**纯净操作系统**<br />
 | 名称 | 链接 |
 | --- | --- |
 | MSDN windows纯净版 | https://msdn.itellyou.cn/ |
@@ -67,6 +67,16 @@
 | ventoy镜像启动盘 | https://www.ventoy.net/cn/index.html |
 | rufus镜像启动盘 | https://github.com/pbatard/rufus |
 | wepe工具箱 | https://www.wepe.com.cn/ |
+
+**开源镜像站**<br />
+| 名称 | 链接 |
+| --- | --- |
+| 网易开源镜像站 | http://mirrors.163.com/ |
+| 华为开源镜像站 | https://mirrors.huaweicloud.com/home |
+| 阿里巴巴开源镜像站 | https://developer.aliyun.com/mirror/ |
+| 腾讯开源镜像站 | http://mirrors.tencent.com/  |
+| 中国科技大学开源镜像站 | http://mirrors.ustc.edu.cn/  |
+
 
 
 
