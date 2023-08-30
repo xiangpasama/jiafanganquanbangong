@@ -157,18 +157,53 @@
 **按键精灵**<br />
 | 名称 | 链接 |
 | --- | --- |
-| 网易开源镜像站 | http://mirrors.163.com/ |
+| 按键精灵 | http://www.anjian.com/ |
+| 七彩色按键助手 | http://mk.qicaise.com/ |
+| AutoHotkey | https://www.autohotkey.com/ |
+| 触动精灵 | https://www.touchsprite.com/ |
+| 自动精灵 | http://zdjl.cc/ |
 
 **网盘**<br />
 | 名称 | 链接 |
 | --- | --- |
-| 网易开源镜像站 | http://mirrors.163.com/ |
+| 百度网盘 | https://pan.baidu.com/ |
+| 腾讯微云 | https://www.weiyun.com/ |
+| 阿里云盘 | https://www.aliyundrive.com/ |
+| 夸克网盘 | https://pan.quark.cn/ |
+| 360安全云盘 | https://yunpan.360.cn/ |
+| 坚果云盘 | https://www.jianguoyun.com/ |
+| 天翼云盘 | https://cloud.189.cn/web/ |
+| 中国移动云盘 | https://yun.139.com/w/ |
+| 华为云空间 | https://cloud.huawei.com/ |
+| 超星云盘 | http://pan-yz.chaoxing.com/app/ |
+| 城通网盘 | https://www.ctfile.com/ |
+| 小米云服务 | https://i.mi.com/ |
+| 联通云盘 | https://pan.wo.cn/ |
+| 亿方云 | https://www.fangcloud.com/ |
+| 115网盘 | https://115.com/ |
+| 123网盘 | https://www.123pan.com/ |
+| 飞猫盘 | https://www.feimaoyun.com/ |
 
 **爬虫工具**<br />
 | 名称 | 链接 |
 | --- | --- |
-| 网易开源镜像站 | http://mirrors.163.com/ |
+| 八爪鱼采集器 | https://www.bazhuayu.com/ |
+| 后羿采集器 | https://www.houyicaiji.com/ |
+| 爬山虎采集器 | https://www.51pashanhu.com/ |
+| 火车采集器 | http://www.locoy.com/ |
+| 集搜客采集器 | http://www.gooseeker.com/ |
+| 红蜻蜓抓图精灵 | http://www.rdfsnap.com/default.html |
 
+**模板**<br />
+| 名称 | 链接 |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+录屏软件、壁纸软件、外网代理软件、内网穿透软件、漏洞之王软件、加密通信软件
 
 <br />
 <br />
@@ -176,3 +211,4 @@
 《中华人民共和国网络安全法》<br />
 《中华人民共和国数据安全法》<br />
 《中华人民共和国个人信息保护法》<br />
+
