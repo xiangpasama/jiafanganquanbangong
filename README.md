@@ -133,12 +133,26 @@
 **虚拟机**<br />
 | 名称 | 链接 |
 | --- | --- |
-| 网易开源镜像站 | http://mirrors.163.com/ |
+| VMware Workstation Player | https://www.vmware.com/cn/products/workstation-player.html |
+| VMware Workstation Pro | https://www.vmware.com/cn/products/workstation-pro.html |
+| VirtualBox | https://www.virtualbox.org/ |
 
 **模拟器**<br />
 | 名称 | 链接 |
 | --- | --- |
-| 网易开源镜像站 | http://mirrors.163.com/ |
+| 夜神模拟器 | https://www.yeshen.com/ |
+| 雷神模拟器 | http://www.lsplayer.com/ |
+| 雷电模拟器 | https://www.ldmnq.com/ |
+| mumu模拟器 | https://mumu.163.com/ |
+| 蓝叠模拟器 | https://www.bluestacks.cn/ |
+| 联想模拟器 | https://lestore.lenovo.com/detail/L100433 |
+| 小鸡模拟器 | https://www.xiaoji001.com/ |
+| 云海模拟器 | https://lestore.lenovo.com/detail/26575 |
+| 腾讯手游助手 | https://syzs.qq.com/ |
+| 逍遥模拟器 | https://www.xyaz.cn/ |
+| 手机模拟大师 | http://g.monidashi.cn/ |
+| 51模拟器 | https://www.51mnq.com/ |
+| 天天模拟器 | https://www.ttmnq.com/ |
 
 **按键精灵**<br />
 | 名称 | 链接 |
