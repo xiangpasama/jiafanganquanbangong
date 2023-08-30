@@ -75,6 +75,7 @@
 | KMS_VL_ALL_AIO激活 | https://github.com/abbodi1406/KMS_VL_ALL_AIO  |
 | ventoy镜像启动盘 | https://www.ventoy.net/cn/index.html |
 | rufus镜像启动盘 | https://github.com/pbatard/rufus |
+| 360系统重装大师 | http://renew.360.cn/ |
 | wepe工具箱 | https://www.wepe.com.cn/ |
 
 **SSH远程工具**<br />
