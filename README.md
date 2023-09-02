@@ -196,16 +196,16 @@
 | 集搜客采集器 | http://www.gooseeker.com/ |
 | 红蜻蜓抓图精灵 | http://www.rdfsnap.com/default.html |
 
-**模板**<br />
+**漏洞之王**<br />
 | 名称 | 链接 |
 | --- | --- |
-|  |  |
-|  |  |
+| flashplayer | https://www.flash.cn/ |
+| Internet Explorer浏览器 | https://www.microsoft.com/zh-cn/download/internet-explorer.aspx |
 |  |  |
 |  |  |
 |  |  |
 
-录屏软件、壁纸软件、外网代理软件、内网穿透软件、漏洞之王软件、加密通信软件
+录屏软件、壁纸软件、外网代理软件、加密通信软件
 
 <br />
 <br />
