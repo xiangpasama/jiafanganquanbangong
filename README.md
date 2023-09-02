@@ -196,14 +196,27 @@
 | 集搜客采集器 | http://www.gooseeker.com/ |
 | 红蜻蜓抓图精灵 | http://www.rdfsnap.com/default.html |
 
-**漏洞之王**<br />
+**漏洞之王软件**<br />
 | 名称 | 链接 |
 | --- | --- |
 | flashplayer | https://www.flash.cn/ |
 | Internet Explorer浏览器 | https://www.microsoft.com/zh-cn/download/internet-explorer.aspx |
 
+**海外&加密通信工具**<br />
+| 名称 | 链接 |
+| --- | --- |
+| whatsapp | https://www.whatsapp.com/ |
+| skype | https://shiguangpu.com/ |
+| telegram | https://telegram.org/ |
+| signal | https://signal.org/ |
+| messenger | https://www.messenger.com/ |
+| viber | https://www.viber.com/en/ |
+| line | https://line.me/zh-hant/ |
+| kakao | https://www.kakaocorp.com/ |
+| siyuchat | https://www.siyuchat.com/pc-index.html |
+| batchat | https://www.batchat.com/ |
 
-**漏洞之王**<br />
+**样例**<br />
 | 名称 | 链接 |
 | --- | --- |
 | flashplayer | https://www.flash.cn/ |
@@ -212,7 +225,18 @@
 |  |  |
 |  |  |
 
-录屏软件、壁纸软件、外网代理软件、加密通信软件
+录屏软件、壁纸软件、外网代理软件
+
+
+
+
+
+
+
+
+
+
+
 
 <br />
 <br />
