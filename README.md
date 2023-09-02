@@ -201,6 +201,13 @@
 | --- | --- |
 | flashplayer | https://www.flash.cn/ |
 | Internet Explorer浏览器 | https://www.microsoft.com/zh-cn/download/internet-explorer.aspx |
+
+
+**漏洞之王**<br />
+| 名称 | 链接 |
+| --- | --- |
+| flashplayer | https://www.flash.cn/ |
+| Internet Explorer浏览器 | https://www.microsoft.com/zh-cn/download/internet-explorer.aspx |
 |  |  |
 |  |  |
 |  |  |
